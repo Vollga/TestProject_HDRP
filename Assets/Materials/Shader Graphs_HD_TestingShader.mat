@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_HD_TestingShader
+  m_Shader: {fileID: 4800000, guid: 1cd54898613d4c1428f11597efc99abf, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_1FABF29D:
+        m_Texture: {fileID: 2800000, guid: 22638a9216f1ebf4cb43273a00879f51, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_415026:
+        m_Texture: {fileID: 2800000, guid: 7140a9bc83a12ea49a081dda89216fff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_75667FDF:
+        m_Texture: {fileID: 2800000, guid: fcce267dfc966b6408dc2ebe0cfb60ed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_831C7492:
+        m_Texture: {fileID: 2800000, guid: 22638a9216f1ebf4cb43273a00879f51, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_AED0527B:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F319A3BB:
+        m_Texture: {fileID: 2800000, guid: fcce267dfc966b6408dc2ebe0cfb60ed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Subgraph_4FE3F61B_Texture2D14EF8B60:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Subgraph_4FE3F61B_Texture2DFFA5D44C:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Subgraph_9A4E2A54_Texture2D106878A6:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Subgraph_9A4E2A54_Texture2D1F9FBC87:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Subgraph_9A4E2A54_Texture2D47511ECA:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Subgraph_9A4E2A54_Texture2D76DDCE95:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Subgraph_9A4E2A54_Texture2D8633A58D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Subgraph_9A4E2A54_Texture2DF244F9D8:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_23C0857E: 0.71
+    - Vector1_318B80AD: 0.45
+    - Vector1_3423EA11: 1
+    - Vector1_5FACB2F7: 2
+    - Vector1_7D1B4ADA: 0.69
+    - Vector1_A02A013A: 1
+    - Vector1_B4D79775: 11.29
+    - Vector1_B7DA5FAF: 2
+    - Vector1_C339E091: 1
+    - Vector1_C8FBABBC: 4.72
+    - Vector1_E915AEDE: 0.04
+    m_Colors:
+    - Color_43D57F26: {r: 0, g: 0.745283, b: 0.16908595, a: 0}
+    - Color_4FDD6C4C: {r: 1, g: 1, b: 1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
