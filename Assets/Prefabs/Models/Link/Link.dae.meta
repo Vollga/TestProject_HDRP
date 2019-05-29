@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 5b34abe74d626f443b90a8623e1223b7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: al_handsL
+    100002: al_handsR
+    100004: Armature
+    100006: armL1
+    100008: armL2
+    100010: armR1
+    100012: armR2
+    100014: backbone1
+    100016: backbone2
+    100018: Camera
+    100020: Camera_001
+    100022: center
+    100024: chin
+    100026: clotchL
+    100028: clotchR
+    100030: face_root
+    100032: footL
+    100034: footR
+    100036: fskirtL1
+    100038: fskirtL2
+    100040: fskirtR1
+    100042: fskirtR2
+    100044: hairL
+    100046: hairR1
+    100048: hairR2
+    100050: handL
+    100052: handR
+    100054: head
+    100056: head_root
+    100058: Lamp
+    100060: Lamp_001
+    100062: legL1
+    100064: legL2
+    100066: legR1
+    100068: legR2
+    100070: //RootNode
+    100072: mayuL
+    100074: mayuR
+    100076: mesh0001
+    100078: momiL
+    100080: momiR
+    100082: mouth
+    100084: neck
+    100086: nw4r_root
+    100088: pod
+    100090: rskirtL1
+    100092: rskirtL2
+    100094: rskirtR1
+    100096: rskirtR2
+    100098: shoulderL
+    100100: shoulderR
+    100102: toeL
+    100104: toeR
+    100106: waist
+    100108: weaponL
+    100110: weaponR
+    100112: z_cap1
+    100114: z_cap2
+    100116: z_cap3
+    100118: z_cap4
+    400000: al_handsL
+    400002: al_handsR
+    400004: Armature
+    400006: armL1
+    400008: armL2
+    400010: armR1
+    400012: armR2
+    400014: backbone1
+    400016: backbone2
+    400018: Camera
+    400020: Camera_001
+    400022: center
+    400024: chin
+    400026: clotchL
+    400028: clotchR
+    400030: face_root
+    400032: footL
+    400034: footR
+    400036: fskirtL1
+    400038: fskirtL2
+    400040: fskirtR1
+    400042: fskirtR2
+    400044: hairL
+    400046: hairR1
+    400048: hairR2
+    400050: handL
+    400052: handR
+    400054: head
+    400056: head_root
+    400058: Lamp
+    400060: Lamp_001
+    400062: legL1
+    400064: legL2
+    400066: legR1
+    400068: legR2
+    400070: //RootNode
+    400072: mayuL
+    400074: mayuR
+    400076: mesh0001
+    400078: momiL
+    400080: momiR
+    400082: mouth
+    400084: neck
+    400086: nw4r_root
+    400088: pod
+    400090: rskirtL1
+    400092: rskirtL2
+    400094: rskirtR1
+    400096: rskirtR2
+    400098: shoulderL
+    400100: shoulderR
+    400102: toeL
+    400104: toeR
+    400106: waist
+    400108: weaponL
+    400110: weaponR
+    400112: z_cap1
+    400114: z_cap2
+    400116: z_cap3
+    400118: z_cap4
+    2000000: Camera
+    2000002: Camera_001
+    2100000: al_upbody
+    2100002: al_other
+    2100004: al_inner
+    2100006: al_face
+    2100008: al_face.002
+    2100010: al_eyeball.001
+    2100012: al_eye_1.001
+    2100014: al_lowbody
+    2100016: al_hair
+    2100018: al_cap
+    2100020: al_hand
+    4300000: mesh0001
+    9500000: //RootNode
+    10800000: Lamp_001
+    13700000: mesh0001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al_cap
+    second: {fileID: 2100000, guid: 146c5d42949499e4295f947b63ff559c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al_eye_1.001
+    second: {fileID: 2100000, guid: 5b29840a6156949428a082e3bca18c95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al_eyeball.001
+    second: {fileID: 2100000, guid: a9176ec35c739c24a936af08178c4797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al_face
+    second: {fileID: 2100000, guid: a8642f87d7e00d34689817d6607aea9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al_face.002
+    second: {fileID: 2100000, guid: 54dc923c6064d914ca30d42b028012f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al_hair
+    second: {fileID: 2100000, guid: 134627e81fc0fef4f92acc7642fe3cef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al_hand
+    second: {fileID: 2100000, guid: 06e4d7fce4133d143bf963fdfe625268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al_inner
+    second: {fileID: 2100000, guid: 26cc22766162c1945a862cc81285f2d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al_lowbody
+    second: {fileID: 2100000, guid: eaf3646ca4b1b5d43b9f121af19cf8f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al_other
+    second: {fileID: 2100000, guid: 63cf2f8a5c507304d9b3b774c8859e42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al_upbody
+    second: {fileID: 2100000, guid: 761573cca5bda794e992751117303e52, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
