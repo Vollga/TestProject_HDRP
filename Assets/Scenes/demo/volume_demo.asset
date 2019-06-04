@@ -146,13 +146,13 @@ MonoBehaviour:
     max: 5
   skyTint:
     m_OverrideState: 1
-    m_Value: {r: 0.4804646, g: 0.55434227, b: 0.5566038, a: 1}
+    m_Value: {r: 0.8773585, g: 0.6854769, b: 0.26072446, a: 1}
     hdr: 0
     showAlpha: 1
     showEyeDropper: 1
   groundColor:
     m_OverrideState: 1
-    m_Value: {r: 0.369, g: 0.349, b: 0.341, a: 1}
+    m_Value: {r: 0.4716981, g: 0.44082636, b: 0.38937342, a: 1}
     hdr: 0
     showAlpha: 1
     showEyeDropper: 1
